@@ -1,1 +1,1 @@
-### Teaching HTML $ CSS every weekend.
+### Teaching HTML $ CSS during weekends
