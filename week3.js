@@ -24,9 +24,9 @@ console.log(addition);
 let x = 6.7; //float
 let y = 5; //int
 
-let result = x - y;
+let res = x - y;
 
-console.log(result);
+console.log(res);
 
 let numbers = 21;
 let removal = 5;
